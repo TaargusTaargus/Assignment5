@@ -1,3 +1,1 @@
-print( "hello world" )
-print( "goodbye world" )
-##
+print( "hello world and goodbye world" )
